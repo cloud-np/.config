@@ -1,0 +1,9 @@
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/cloud-np/tmux.git
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/cloud-np/nvim.git
+[submodule "qtile"]
+	path = qtile
+	url = https://github.com/cloud-np/qtile.git
